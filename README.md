@@ -1,6 +1,6 @@
 ## 🧪 Fischer Cutter RCA & Process Intelligence Dashboard
 
-### 🛠 Project Type: Industrial Analytics | Root Cause Analysis | Power BI | Process Optimization
+### 🛠 Project Type:Industrial Data Science | Root Cause Analysis | PLC Logic Diagnostics | Power BI for Smart Manufacturing
 
 ---
 
