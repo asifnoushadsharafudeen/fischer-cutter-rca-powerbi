@@ -145,9 +145,9 @@ Electrical Engineering graduate with strong industrial automation experience and
 
 fischer-cutter-rca-powerbi/
 │
-├── data/ # Fault logs, compound test sheets (anonymized)
-├── dashboards/ # Power BI .pbix files or screenshots
-├── docs/ # Supporting PDFs, diagrams, RCA notes
-├── README.md # Project overview and documentation
+├── data/               # Fault logs, compound test sheets (anonymized)
+├── dashboards/         # Power BI .pbix files or screenshots
+├── docs/               # Supporting PDFs, diagrams, RCA notes
+├── README.md           # Project overview and documentation
 
 ---
